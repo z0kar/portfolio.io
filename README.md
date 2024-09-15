@@ -4,6 +4,5 @@
 
 ## MIT licence
 
-## email: none
 
-## link to my portfolio : none
+## link to my portfolio : https://z0kar.github.io/portfolio.io/
