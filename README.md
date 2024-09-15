@@ -1,6 +1,6 @@
 ﻿## Description:
 
-## Zoltan Karpati's projects
+## z0kar's projects
 
 ## MIT licence
 
