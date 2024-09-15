@@ -3,3 +3,7 @@ description: Hacking for best solution. My hacking journey.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
+layout: post
+title: "POST-TITLE"
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: Hacking Blog
