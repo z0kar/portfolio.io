@@ -1,0 +1,2 @@
+# Blog page 
+# Coming Soon
