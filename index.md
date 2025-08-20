@@ -8,4 +8,5 @@ I write about my journey in cybersecurity, pentesting and vulnerability research
 - [Running My First Vulnerability Scan](./02-first-scan.md)
 - [Learning Nmap - First Impressions](./03-learning-nmap.md)
 
-# blog posts here ./blog.md 
+[Blog posts](./blog.md)
+
