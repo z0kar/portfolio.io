@@ -4,44 +4,52 @@
 
 ## 👋 Hi, I’m Zoltan
 
-##  🚀 Aspiring Cybersecurity Professional Pentester | GRC & Blue Team Focus | Networking Enthusiast who has 4 years SWE experience to work financial companies globally on security apps, endpoints
+##  I’m building my career in cybersecurity, aiming to combine strong defensive security skills with hands-on offensive exposure. My focus is on:
 
-##  I’m building my career in cybersecurity with a strong interest in:
+🛡️ Blue Team / Defensive Security – monitoring, incident response, GRC practices
 
-##  🔐 GRC (Governance, Risk & Compliance)
+🔍 Pentesting Fundamentals – network scanning, vulnerability discovery, lab-based testing
 
-##  🛡️ Defensive Security & Blue Teaming
+🌐 Networking & Linux – the backbone of cybersecurity
 
-##  🌐 Networking, Linux, and Security Fundamentals
+💡 I share my labs and notes here on GitHub and on Medium
+ as part of my “learn in public” journey.
 
-##  💡 I believe in learning in public. That’s why I’m documenting my labs, projects, and notes here on GitHub and on Medium
-.
+🛠 Current Projects
 
-##  🛠 Current Projects
+📡 Wireshark Labs → Protocol analysis & network troubleshooting
 
-##  📡 Wireshark Labs → Packet captures + protocol analysis
+🔎 Nmap Projects → Host discovery & vulnerability scanning in VMs
 
-## 🔎 Nmap Scans → Host & service discovery in virtual lab environments
+📊 GRC Framework Notes → ISO 27001, NIST CSF, SOC2 insights & case studies
 
-## 📊 GRC Case Studies → Notes & write-ups from security frameworks (ISO 27001, NIST, SOC2)
+🧑‍💻 Hands-On Security Labs → Home lab experiments combining defensive + pentest approaches
 
-##  🔧 Hands-On Security Labs → Small, practical experiments in my home lab & VMs
-
-##  🎓 Certifications & Learning
-## Mastercard Cybersecurity Job Simulation
+🎓 Certifications & Learning:
+Mastercard Cybersecurity Job Simulation
 On the process: AIG Shields Up: Cybersecurity
 
-## 🌱 Currently learning: CompTIA Security+ Prep, Cisco Networking Basics, Palo Alto Security Fundamentals
+🌱 In progress: CompTIA Security+ (prep), Cisco Networking Basics, Palo Alto Security Fundamentals
 
-🏅 Earning micro-badges from Cisco & Palo Alto (quick wins to showcase progress)
+🏅 Micro-badges from Cisco & Palo Alto (comming soon...)
 
-## 🎯 Future goals: Security+, CISSP Associate, and GRC specializations
+🎯 Future goals: Security+, CISSP Associate, and GRC specializations
 
-## 📫 Let’s Connect
+📫 Let’s Connect
 
-## 🌍 LinkedIn:https://www.linkedin.com/in/zoltankarpati-ai/
+🌍 [LinkedIn](https://www.linkedin.com/in/zoltankarpati-ai/)
 
-## ✍️ https://medium.com/@zkarpati
+✍️ [Medium Blog](https://medium.com/@zkarpati)
+
+
+⭐ Fun fact: My dream is to work remote, travel the world 🌍, and help organizations strengthen their security posture.
+
+👉 Recruiters:
+I bring a blend of Blue Team focus and offensive testing exposure, with a strong foundation in GRC and networking. Ready to contribute, learn, and grow.
+
+⚡ “Security is about defending today while preparing for tomorrow.”
+
+
 
 
 
@@ -49,5 +57,6 @@ On the process: AIG Shields Up: Cybersecurity
 
 
 ## link to my portfolio : https://z0kar.github.io/portfolio.io/
+
 
 
