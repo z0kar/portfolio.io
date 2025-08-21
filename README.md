@@ -2,9 +2,9 @@
 
 ## z0kar's projects
 
-## 👋 Hi, I’m [Your Name]
+## 👋 Hi, I’m Zoltan
 
-##  🚀 Aspiring Cybersecurity Professional | GRC & Blue Team Focus | Networking Enthusiast
+##  🚀 Aspiring Cybersecurity Professional Pentester | GRC & Blue Team Focus | Networking Enthusiast who has 4 years SWE experience to work financial companies globally on security apps, endpoints
 
 ##  I’m building my career in cybersecurity with a strong interest in:
 
@@ -49,4 +49,5 @@ On the process: AIG Shields Up: Cybersecurity
 
 
 ## link to my portfolio : https://z0kar.github.io/portfolio.io/
+
 
